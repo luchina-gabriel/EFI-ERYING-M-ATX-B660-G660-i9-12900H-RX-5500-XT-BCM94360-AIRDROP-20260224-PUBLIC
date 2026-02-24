@@ -1,5 +1,7 @@
 # Hackintosh, Erying Interposer M-ATX B660/G660, Intel Core i9-12900H, RX 5500 XT (8 Gb), BCM94360/AirDrop - macOS Tahoe 26.3
 
+<img width="2258" height="1338" alt="Portfolio" src="https://github.com/user-attachments/assets/09cb8ef1-1a89-4bf7-9ce4-6a5400bf8647" />
+
 # Basic Information
 
 **Latest working macOS**: macOS Tahoe (26.3)
